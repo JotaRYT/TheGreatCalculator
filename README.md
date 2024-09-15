@@ -16,7 +16,7 @@ To use the calculator locally:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/scientific-calculator.git
+   git clone https://github.com/JotaRYT/TheGreatCalculator
    ```
 
 2. **Open the HTML file** in your preferred browser:
